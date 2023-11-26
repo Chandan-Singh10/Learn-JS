@@ -35,6 +35,7 @@ const myn2 = myArray.splice(1, 3); // Original array ko menupulate Karta ha
 
 console.log("C", myArray);
 console.log(myn2);
+console.log(first)
 
 
 
